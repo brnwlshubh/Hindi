@@ -6,3 +6,4 @@
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD http://50.7.237.4:8080/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal http://50.7.237.4:8080/SONYPAL/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://50.7.237.4:8080/SABTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_BEATS.png",MTV Beats HD http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
