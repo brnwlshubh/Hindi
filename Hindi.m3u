@@ -8,4 +8,4 @@
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal http://50.7.237.4:8080/SONYPAL/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://fortv.cc:8080/Rob/Rob2022/125809
 
-EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sanskar TV http://fortv.cc:8080/Rob/Rob2022/125813
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sanskar TV http://fortv.cc:8080/Rob/Rob2022/125813
