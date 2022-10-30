@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://185.63.254.128:8080/Kimineu/CWzI9UhQG4/2856
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://iptv-line.com:8080/kosovalindore/fzoDMBBMHv/5633
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://iamsomx.herokuapp.com/voot.php?url=https://www.voot.com/live/colors-hd/805985
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1667241727~acl=/*~data=hdntl~hmac=647b9f2f55c96fb48341e9ea787d26b6cf87893a185cc0f5fb5e4a741385262c/Colors_HD_voot_MOB-audio_98835_hin=98800-video=176400.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://fortv.cc:8080/Rob/Rob2022/125809
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://iptv-line.com:8080/kosovalindore/fzoDMBBMHv/325
 
