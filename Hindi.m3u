@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://iptv-line.com:8080/kosovalindore/fzoDMBBMHv/5633
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1667185024~exp=1667271424~acl=/*~hmac=c539f3c3df1fc4802e7f7f35a5399ded889d268a482837b3b912e3944aa86d09
+#EXTINF:-1 group-title="Music" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats.png",MTV Beats HD+ https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output03/index.m3u8?hdnts=st=1667187849~exp=1667274249~acl=/*~hmac=2d661ff707a8a55195d83878ce8baa1f062c4e0c94e2f15f8126bf1a8034ce09
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://fortv.cc:8080/Rob/Rob2022/125809
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sab_Tv.png",Sony Sab http://iptv-line.com:8080/kosovalindore/fzoDMBBMHv/325
 
